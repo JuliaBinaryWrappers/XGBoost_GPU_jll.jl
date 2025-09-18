@@ -2,47 +2,191 @@
 arch = "x86_64"
 cuda = "11.8"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ed00a5b3cfc841ed50a82198866842ac4c2be246"
+git-tree-sha1 = "572ba4576e4e2624383a427e262dc64cb8eea7d9"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[XGBoost_GPU.download]]
-    sha256 = "dde23ddff2b2ec35266734b4bc09c42479a5cf983d61709f7a83db8fff025593"
-    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.4+0/XGBoost_GPU.v2.1.4.x86_64-linux-gnu-cxx03-cuda+11.8.tar.gz"
+    sha256 = "d2e5016e338356dbe765cc76138a713038ba384dc54aad4ccc0b644559ecb741"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+11.8.tar.gz"
 [[XGBoost_GPU]]
 arch = "x86_64"
 cuda = "11.8"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8510e76f5d5962b1fb2fc28b12f9c3137c87f596"
+git-tree-sha1 = "81380d78a7d917d509e6847412c3eff8e347ab58"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[XGBoost_GPU.download]]
-    sha256 = "c0079cc979021ba14c1e3c1580671f6ee3d1d78c4f6e7eec0ec4a5642faf8023"
-    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.4+0/XGBoost_GPU.v2.1.4.x86_64-linux-gnu-cxx11-cuda+11.8.tar.gz"
+    sha256 = "baaf0f4beb4fe01740a29963b037e06759bb5490f3851723a77e19adfca6ea48"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+11.8.tar.gz"
 [[XGBoost_GPU]]
 arch = "x86_64"
 cuda = "12.0"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b09bdca94f7ff1955d47d08802f86080804bedd4"
+git-tree-sha1 = "a8fc38f79e964cde1fef0b8dbaea5a9dc88a3408"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[XGBoost_GPU.download]]
-    sha256 = "8c36de204199fa2c587842075d2d7ddd445e752e251ed03485ff96d89bfe2e32"
-    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.4+0/XGBoost_GPU.v2.1.4.x86_64-linux-gnu-cxx03-cuda+12.0.tar.gz"
+    sha256 = "c00b267c547cab68c008c06da4b3bc05345d4505b79d05ce5e29487693ef7e81"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+12.0.tar.gz"
 [[XGBoost_GPU]]
 arch = "x86_64"
 cuda = "12.0"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d62f08d690a82b148f340e66d5f6858872abd52"
+git-tree-sha1 = "273fb30b077eb9246ce223eb59cd043d60c0150f"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[XGBoost_GPU.download]]
-    sha256 = "21025c261d10184615defe7b5800c624b9515f6780b7d3725c1eebed05697d28"
-    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.4+0/XGBoost_GPU.v2.1.4.x86_64-linux-gnu-cxx11-cuda+12.0.tar.gz"
+    sha256 = "1e8511aba329a5143972e2e962f51f34cb96cfd705563ccbda588137e2f100c5"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+12.0.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.1"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a7659e0d7937f545facbd3afe647a9f59babe121"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "d00e5b1b784a1bcbf3184e0ada8a3c5f997c0b98aa5bfb9f34e910def6711af0"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+12.1.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "840ce244b936128334e8b5c4d4ab7aece4fa43c8"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "6d358047364228e3d1de3b8ce9891ccc04989102b08ea630f73d8aa01333004d"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+12.1.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "929205cf011d8b4f2f30b85638a4b159b83cce68"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "c24cb9899cb9e8d08bbf3becc32fd0d02f4f6ae43410253b8ec1948b5ae4029b"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+12.2.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e7f7c441df8deb1679c85c98e85802cff76985c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "363b4bf8c5f72eb8eef8c90bd389cdba35326f4aa6ff8758cfd5eefdfd90ad46"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+12.2.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.3"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fab4a13fb60ba5d8520969f33705a5118a2c19d6"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "6c9089c336f6e4c91ac6d7c193c1d441612aaabdd12a6a1828f70816013a688e"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+12.3.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.3"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a334b3e69018197c957df5c84782e24b7954e5e"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "969374a39e09d56b311dc085bed64974665f93f8f6bb6b79ac144a42b4fd4e1b"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+12.3.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0f860f01a226d12b78c11e0a35569e6d4486615"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "6a14afff15d809ec5144a4d98e3ff803075a370375e593ed54dee130ce02d00b"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+12.4.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "142b013375df48c8b9af1eb369390baddb97fef4"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "56affbd220911c863d6dd0b33dd2cf096bd25a3acff9d2e2accdb52b39274695"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+12.4.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.8"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b15ccd4aadfb544adad68c7f27c9593552659801"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "da68e67eab181521d6cf4668b73c0369b227cfd7ad2f4102aa1d5a36825f7d75"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+12.8.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "978291cc3cebad5cfd93a7f9f80598ad81a50706"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "1eb3405c38e6d00f46765b8824392b52f81bdc4df0c2840bd362976975493879"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+12.8.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e91fbb70d9dc78617d3507c07395b8c347682ecf"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "1111f1fb5468bb35f7a471fa7ae11fb5e492c4744a7254f56615ecc7cafc60a1"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx03-cuda+12.9.tar.gz"
+[[XGBoost_GPU]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b9351cc63a8618cbc2577ecd250abc0a966c9c11"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[XGBoost_GPU.download]]
+    sha256 = "e3509c568e0913b2f773055458a8c56ea6f348df5f245db647931ce18e4186b0"
+    url = "https://github.com/JuliaBinaryWrappers/XGBoost_GPU_jll.jl/releases/download/XGBoost_GPU-v2.1.5+0/XGBoost_GPU.v2.1.5.x86_64-linux-gnu-cxx11-cuda+12.9.tar.gz"
